@@ -54,6 +54,10 @@ sudo chmod 777 usbfs_memory_mb
 vi usbfs_memory_mb
 ```
 Edit the value to 1000
+press `i` to edit
+`dd`to delete the whole line
+Press'Esc' and type `:wq` to save the edit
+
 ### 7. Open the Camera
 ```
 cd /home/peakvision/ids/ids-peak_2.3.0.0-15823_arm64/bin
