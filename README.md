@@ -3,6 +3,9 @@
 - camera model : U3-36L0XC Starter-Set
 - operating system : Linux ARM v8 64-bit hard
 - package download: Software > IDS peak 2.3 for Linux ARMv8 (64bit) - archive file
+```
+tar -xvzf ids-peak-linux-arm64-2.3.0.0.tgz -C ~/ids
+```
 ### 2. Check system requirements
 - Dependences:
 ```
