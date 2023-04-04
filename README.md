@@ -42,10 +42,10 @@ python --version
 My Python version is 3.9.2
 - Go to directory `/home/peakvision/ids/ids-peak_2.3.0.0-15823_arm64/local/share/ids/bindings/python/wheel`
 ```
-pip install ids_peak-1.5.0.0-cp39-cp39-linux_aarch64.whl
+sudo pip install ids_peak-1.5.0.0-cp39-cp39-linux_aarch64.whl
 ```
 ```
-pip install ids_peak_ipl-1.6.0.0-cp39-cp39-linux_aarch64.whl
+sudo pip install ids_peak_ipl-1.6.0.0-cp39-cp39-linux_aarch64.whl
 ```
 ### 6. Increase Buffer size by edit `usbfs_memory_mb` variable
 ```
