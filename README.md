@@ -53,10 +53,10 @@ cd /sys/module/usbcore/parameters/
 sudo chmod 777 usbfs_memory_mb
 vi usbfs_memory_mb
 ```
-Edit the value to 1000
-press `i` to edit
-`dd`to delete the whole line
-Press'Esc' and type `:wq` to save the edit
+Edit the value to 1000  
+press `i` to edit  
+`dd`to delete the whole line  
+Press'Esc' and type `:wq` to save the edit  
 
 ### 7. Open the Camera
 ```
